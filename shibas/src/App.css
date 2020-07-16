@@ -24,6 +24,8 @@
 label{
   font-family: 'Oswald', sans-serif;
   word-spacing: 1px;
+  font-size: 1.25rem;
+  color: #445c77;
 }
 
 h1{
@@ -42,15 +44,19 @@ form{
   margin: 5px 0;
 }
 select{
+  font-size: 1.25rem;
   margin: 5px 0;
   background-color: #f5f5f5;
+  color: #445c77;
 }
 
 button{
   margin: 20px 0;
   padding: 10px 0;
   border-radius: 25px;
+  font-size: 1.25rem;
   background-color: #f5f5f5;
+  color: #445c77;
 }
 
 a{
